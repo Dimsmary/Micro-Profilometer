@@ -60,37 +60,37 @@ https://www.sciencedirect.com/science/article/pii/S2468067222000621
 
 #### 晶圆裸片
 
-![chip02](ScanImages\chip02.png)
+![chip02](ScanImages/chip02.png)
 
-![chip03](ScanImages\chip03.png)
+![chip03](ScanImages/chip03.png)
 
 
 
-![chip04](ScanImages\chip04.png)
+![chip04](ScanImages/chip04.png)
 
-![chip06](ScanImages\chip06.png)
+![chip06](ScanImages/chip06.png)
 
 #### 阳极氧化铝表面
 
-![al01](ScanImages\al01.png)
+![al01](ScanImages/al01.png)
 
-![al02](ScanImages\al02.png)
+![al02](ScanImages/al02.png)
 
 #### 苹果表面
 
-![apple01](ScanImages\apple01.png)
+![apple01](ScanImages/apple01.png)
 
-![apple02](ScanImages\apple02.png)
+![apple02](ScanImages/apple02.png)
 
-![apple03](ScanImages\apple03.png)
+![apple03](ScanImages/apple03.png)
 
 #### 纸张表面
 
-![paper01](ScanImages\paper01.png)
+![paper01](ScanImages/paper01.png)
 
 #### 纸巾表面
 
-![tissue01](ScanImages\tissue01.png)
+![tissue01](ScanImages/tissue01.png)
 
 ## 文件目录介绍
 
