@@ -1,6 +1,6 @@
 # Micro-Profilometer 微米级轮廓仪
 
-[TOC]
+![IMG_4122](IMG_4122.JPG)
 
 ## 项目简介
 
