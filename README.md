@@ -2,6 +2,8 @@
 
 ![IMG_4122](IMG_4122.JPG)
 
+**[中文](README.md) | [English](README_ENG.md)**
+
 ## 项目简介
 
 本项目主要设计了一个**亚微米级定位台**，通过与Micro-Epsilon共聚焦位移传感器进行结合后，设计成为微米级表面轮廓仪。
